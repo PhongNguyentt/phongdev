@@ -14,18 +14,13 @@
       "state":"WA",
       "zip": "98133"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "http://www.phong.dev",
+    "resumedownload":"/files/PhongNguyenResume.pdf",
     "social":[
       {
         "name":"facebook",
         "url":"https://www.facebook.com/phong.ng1593/",
         "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
       },
       {
         "name":"linkedin",
@@ -36,11 +31,6 @@
         "name":"github",
         "url":"https://github.com/PhongNguyentt",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
